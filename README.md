@@ -20,6 +20,25 @@ The database stores essential employee information such as:
 The project is designed as a beginner-friendly SQL practice project and covers several important **DDL and DML operations**.
 
 ---
+## 🧩 SQL Operations & Concepts Covered
+
+- CREATE DATABASE
+- USE DATABASE
+- CREATE TABLE
+- PRIMARY KEY
+- AUTO_INCREMENT
+- NOT NULL Constraint
+- VARCHAR, INT, DECIMAL and DATE Data Types
+- Table Comments
+- INSERT INTO
+- Multiple Row Insertion
+- ALTER TABLE
+- MODIFY Column
+- Column Comments
+- SELECT
+- SELECT DISTINCT
+- Column Aliases using AS
+- SELECT * for retrieving complete records
 
 ## 🛠️ Technologies Used
 
